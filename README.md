@@ -1,2 +1,2 @@
 # interview_prep
-All the interview preparation questions
+Interview preparation question from LeetCode in java
